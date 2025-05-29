@@ -1,0 +1,29 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyd
+.Python
+Python/
+
+# Operating System specific files
+.DS_Store # macOS
+.ipynb_checkpoints/ # Jupyter notebooks
+
+# IDE specific files
+.vscode/ # VS Code settings (consider what to include/exclude here)
+*.sublime-project
+*.sublime-workspace
+
+# Logs and databases (if applicable)
+*.log
+*.sqlite3
+*.db
+
+# Other common temporary files
+*.tmp
+*.swp
