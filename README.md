@@ -13,16 +13,15 @@ The dashboard allows for selecting a stock and graphing its return vs. risk (for
 
 ---
 
-## Features (To be expanded)
+## Features 
 * Interactive dashboard for real-time stock data analysis.
 * Calculation of Variance, VaR, and ES.
 * Utilization of Extreme Value Theory for robust risk assessment.
 * Threshold for extreme value selected using a smoothed Hill estimator.
 * Ability to select a stock and visualize its return vs. risk.
-* Comparison against comparable stocks.
-* *(Add more features as your project develops)*
+* Comparison against comparable stocks for return / risk trade-off
 
-## Installation (To be expanded)
+## Installation 
 
 To run this project locally, follow these steps:
 ```bash
