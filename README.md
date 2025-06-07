@@ -1,4 +1,4 @@
-# Investment Risk Dashboard
+# Financial Risk Dashboard
 
 This project provides an interactive dashboard designed to analyze the risk of various stocks listed on the New York Stock Exchange (NYSE).
 
